@@ -1,0 +1,1 @@
+For a parallelized version of the algorithm please use the file "Parallelized_Mirror_Mode_Detection_Algorithm.py" using in cmd: mpiexec -n N py Parallelized_Mirror_Mode_Detection_Algorithm.py (where N is the amount of processes)
